@@ -25,5 +25,9 @@ Por último, ejecutad `jupyter lab`.
 [1. Fundamentos de Machine Learning](1.%20Fundamentos%20de%20Machine%20Learning.pdf)
 
 ## 📚 Notebooks
+Hace falta tener `utils.py`, `data/` y `figuras/` en el mismo directorio.
 
 [1. Fundamentos de Machine Learning](1.%20Fundamentos%20de%20Machine%20Learning.ipynb)
+
+## 👷‍♀️ Proyecto 👷‍♂️
+Comprimido en `.zip` [aquí](Proyecto.zip). Contiene el enunciado en pdf y 60MB de datos.
