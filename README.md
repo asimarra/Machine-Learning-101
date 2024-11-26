@@ -35,7 +35,7 @@ Hace falta tener `utils.py`, `data/` y `figuras/` en el mismo directorio.
 
 [2. Regularización](2.%20Regularización.ipynb)
 
-[3. Selección de características](3.%20Selección%20de%20características.ipynb)
+[3. Selección de características](3%20Selección%20de%20características.ipynb)
 
 [3.1 Consejos para la práctica](3.1%20Ayuda%20para%20la%20práctica_%20análisis%20exploratorio.ipynb)
 
