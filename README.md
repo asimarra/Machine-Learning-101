@@ -26,6 +26,8 @@ Por último, ejecutad `jupyter lab`.
 
 [2. Regularización](2.%20Regularización.pdf)
 
+[3. Selección de características](3.%20Selección%20de%20características.pdf)
+
 ## 📚 Notebooks
 Hace falta tener `utils.py`, `data/` y `figuras/` en el mismo directorio.
 
@@ -33,9 +35,14 @@ Hace falta tener `utils.py`, `data/` y `figuras/` en el mismo directorio.
 
 [2. Regularización](2.%20Regularización.ipynb)
 
-## 📖 Notebooks con soluciones 🕯
-[1. Fundamentos de Machine Learning (clase 1)](1.%20Fundamentos%20de%20Machine%20Learning-Soluciones-Clase1.ipynb)
+[3. Selección de características](3.%20Selección%20de%20características.ipynb)
 
+[3.1 Consejos para la práctica](3.1%20Ayuda%20para%20la%20práctica_%20análisis%20exploratorio.ipynb)
+
+## 📖 Notebooks con soluciones 🕯
+[1. Fundamentos de Machine Learning](1.%20Fundamentos%20de%20Machine%20Learning-Soluciones.ipynb)
+
+[2. Regularización](2.%20Regularización-Soluciones.ipynb)
 
 ## 👷‍♀️ Proyecto 👷‍♂️
 Comprimido en `.zip` [aquí](Proyecto.zip). Contiene el enunciado en pdf y 60MB de datos.
