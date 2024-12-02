@@ -32,6 +32,10 @@ Por último, ejecutad `jupyter lab`.
 
 [5. Bagging y Random Forest](5.%20Bagging%20y%20Random%20Forest.pdf)
 
+[6. Boosted Trees](6.%20Boosted%20Trees.pdf)
+
+[7. SVMs y Métodos Kernel](7.%20SVMs%20y%20Métodos%20Kernel.pdf)
+
 ## 📚 Notebooks
 Hace falta tener `utils.py`, `data/` y `figuras/` en el mismo directorio.
 
@@ -46,6 +50,12 @@ Hace falta tener `utils.py`, `data/` y `figuras/` en el mismo directorio.
 [4. Árboles de decisión](4.%20Árboles%20de%20decisión.ipynb)
 
 [5. Bagging y Random Forest](5.%20Bagging%20y%20Random%20Forest.ipynb)
+
+[6. Boosted Trees](6.%20Boosted%20Trees.ipynb)
+
+[6.1 Boosting - Otras implementaciones](6.1%20Boosting%20-%20Otras%20implementaciones.ipynb)
+
+[7. SVMs y Métodos Kernel](7.%20SVMs%20y%20Métodos%20Kernel.ipynb)
 
 ## 📖 Notebooks con soluciones 🕯
 [1. Fundamentos de Machine Learning](1.%20Fundamentos%20de%20Machine%20Learning-Soluciones.ipynb)
