@@ -56,5 +56,9 @@ Hace falta tener `utils.py`, `data/` y `figuras/` en el mismo directorio.
 
 [3.1 Consejos para la práctica](3.1%20Ayuda%20para%20la%20práctica_%20análisis%20exploratorio-Soluciones.ipynb)
 
+[4. Árboles de decisión](4.%20Árboles%20de%20decisión-Soluciones.ipynb)
+
+[5. Bagging y Random Forest](5.%20Bagging%20y%20Random%20Forest-Soluciones.ipynb)
+
 ## 👷‍♀️ Proyecto 👷‍♂️
 Comprimido en `.zip` [aquí](Proyecto.zip). Contiene el enunciado en pdf y 60MB de datos.
