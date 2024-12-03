@@ -70,5 +70,9 @@ Hace falta tener `utils.py`, `data/` y `figuras/` en el mismo directorio.
 
 [5. Bagging y Random Forest](5.%20Bagging%20y%20Random%20Forest-Soluciones.ipynb)
 
+[6. Boosted Trees](6.%20Boosted%20Trees-Soluciones.ipynb)
+
+[6.1 Boosting - Otras implementaciones](6.1%20Boosting%20-%20Otras%20implementaciones-Soluciones.ipynb)
+
 ## 👷‍♀️ Proyecto 👷‍♂️
 Comprimido en `.zip` [aquí](Proyecto.zip). Contiene el enunciado en pdf y 60MB de datos.
