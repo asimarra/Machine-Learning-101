@@ -82,6 +82,10 @@ Hace falta tener `utils.py`, `data/` y `figuras/` en el mismo directorio.
 
 [7. SVMs y Métodos Kernel](7.%20SVMs%20y%20Métodos%20Kernel-Soluciones.ipynb)
 
+[8. Métricas](8.%20Métricas-Soluciones.ipynb)
+
+[9. Casos prácticos](9.%20Casos%20prácticos-Soluciones.ipynb)
+
 
 ## 👷‍♀️ Proyecto 👷‍♂️
 Comprimido en `.zip` [aquí](Proyecto.zip). Contiene el enunciado en pdf y 60MB de datos.
